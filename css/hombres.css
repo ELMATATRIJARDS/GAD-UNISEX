@@ -1,0 +1,30 @@
+#carouselExampleIndicators{
+    margin:20px;
+    padding:20px 20px;
+}
+
+
+.row{
+    margin:20px 10px 20px 10px;
+    padding: 20px;
+}
+
+.catalogo{
+    height: 200%;
+    width: 100%;
+    align-items:center;
+}
+
+.col{
+    display: flex;
+}
+
+.card{
+    height: 100%;
+    width: 80%;
+}
+
+.card-img-top{
+    width: 80%;
+    height: 60%;
+}
